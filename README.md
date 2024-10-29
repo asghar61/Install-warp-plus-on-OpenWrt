@@ -13,7 +13,7 @@
 
 # 2- Install warp-plus
 
-ssh root@192.168.123.1 #(Your Router's IP)
+ssh root@192.168.27.1 #(Your Router's IP)
 opkg update
 opkg install openssh-sftp-server   ( do not conected sftp server)
 
