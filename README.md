@@ -1,4 +1,3 @@
-# Install-warp-plus-on-OpenWrt
 # Install warp-plus on OpenWrt
 # Router: pc x86/64
 # OpenWrt Version: OpenWrt 23.05.5 r24106-10cc5fcd00  stable
