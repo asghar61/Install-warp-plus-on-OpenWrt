@@ -1,7 +1,7 @@
 # Install warp-plus on OpenWrt
 # Router: pc x86/64
 # OpenWrt Version: OpenWrt 23.05.5 r24106-10cc5fcd00  stable
-# GitHub repo: https://github.com/Ramtiiin/install-warp-plus-openwrt
+# GitHub repo: https://github.com/asghar61/Install-warp-plus-on-OpenWrt
 # ------------------------------------------
 # ------------------------------------------
 
@@ -73,6 +73,6 @@ service warp status
 --------------------------------------------
 
 
-# Best Regards :)
-# Ramtin
-# youtube.com/netadminplus
+# injoy :)
+# asghar
+# youtube.com/@8bit-1bytee
