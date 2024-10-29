@@ -8,7 +8,7 @@
 #install passwall & passwall 2  :https://github.com/amirhosseinchoghaei/Passwall
 # ------------------------------------------
 
-# 1. Install PassWall2 on OpenWrt (How? https://youtu.be/m-BAyaHNlV8)
+# 1. Install PassWall2 on OpenWrt (How? )
 # ------------------------------------------
 
 # 2- Install warp-plus
@@ -69,7 +69,7 @@ service warp status
 # Enable Main switch & Socks Config
 
 --------------------------------------------
-# Video Link: https://youtu.be/hUxDWM7U_SA
+# Video Link:
 --------------------------------------------
 
 
