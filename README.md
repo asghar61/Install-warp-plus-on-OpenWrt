@@ -17,7 +17,7 @@ ssh root@192.168.27.1 #(Your Router's IP)
 opkg update
 opkg install openssh-sftp-server   ( do not conected sftp server)
 
-# Download WARP PLUS based on your Router's CPU Architecture:x86/64
+# Download WARP PLUS based on your Router's CPU Architecture:your router cpu 
 
 https://github.com/bepass-org/warp-plus/releases
 
