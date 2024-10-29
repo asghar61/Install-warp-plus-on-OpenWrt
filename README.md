@@ -5,7 +5,7 @@
 # ------------------------------------------
 # ------------------------------------------
 
-#install passwall & passwall 2  :https://github.com/amirhosseinchoghaei/Passwall
+#install passwall & passwall 2 repo  :https://github.com/amirhosseinchoghaei/Passwall
 # ------------------------------------------
 
 # 1. Install PassWall2 on OpenWrt (How? )
